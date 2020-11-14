@@ -1,0 +1,182 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 9 9
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:USB_C_Receptacle J?
+U 1 1 611068DF
+P 4700 2350
+F 0 "J?" H 4807 3617 50  0000 C CNN
+F 1 "USB_C_Receptacle" H 4807 3526 50  0000 C CNN
+F 2 "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11" H 4850 2350 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 4850 2350 50  0001 C CNN
+	1    4700 2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 1850 5575 1850
+Wire Wire Line
+	5575 1850 5575 1950
+Wire Wire Line
+	5575 1950 5300 1950
+Wire Wire Line
+	5575 1850 6275 1850
+Connection ~ 5575 1850
+Wire Wire Line
+	6275 2050 5575 2050
+Wire Wire Line
+	5300 2150 5575 2150
+Wire Wire Line
+	5575 2150 5575 2050
+Connection ~ 5575 2050
+Wire Wire Line
+	5575 2050 5300 2050
+$Comp
+L Device:R R?
+U 1 1 611068EF
+P 5600 1550
+F 0 "R?" V 5525 1550 50  0000 C CNN
+F 1 "5K1" V 5600 1550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 5530 1550 50  0001 C CNN
+F 3 "~" H 5600 1550 50  0001 C CNN
+	1    5600 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 611068F5
+P 5600 1650
+F 0 "R?" V 5675 1650 50  0000 C CNN
+F 1 "5K1" V 5600 1650 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 5530 1650 50  0001 C CNN
+F 3 "~" H 5600 1650 50  0001 C CNN
+	1    5600 1650
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5300 1550 5450 1550
+Wire Wire Line
+	5450 1650 5300 1650
+Wire Wire Line
+	5750 1550 5950 1550
+Wire Wire Line
+	5950 1550 5950 1650
+$Comp
+L power:GNDS #PWR?
+U 1 1 611068FF
+P 5950 1675
+F 0 "#PWR?" H 5950 1425 50  0001 C CNN
+F 1 "GNDS" H 6100 1675 50  0000 C CNN
+F 2 "" H 5950 1675 50  0001 C CNN
+F 3 "" H 5950 1675 50  0001 C CNN
+	1    5950 1675
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 1650 5950 1650
+Connection ~ 5950 1650
+Wire Wire Line
+	5950 1650 5950 1675
+Wire Wire Line
+	5300 1350 5550 1350
+Wire Wire Line
+	5550 1350 5550 1025
+$Comp
+L power:+5V #PWR?
+U 1 1 6110690A
+P 5550 1025
+F 0 "#PWR?" H 5550 875 50  0001 C CNN
+F 1 "+5V" H 5565 1198 50  0000 C CNN
+F 2 "" H 5550 1025 50  0001 C CNN
+F 3 "" H 5550 1025 50  0001 C CNN
+	1    5550 1025
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4700 3950 4700 4350
+$Comp
+L power:GNDS #PWR?
+U 1 1 61106911
+P 4700 4350
+F 0 "#PWR?" H 4700 4100 50  0001 C CNN
+F 1 "GNDS" H 4705 4177 50  0000 C CNN
+F 2 "" H 4700 4350 50  0001 C CNN
+F 3 "" H 4700 4350 50  0001 C CNN
+	1    4700 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:USB_A J?
+U 1 1 61106917
+P 4725 5775
+F 0 "J?" H 4782 6242 50  0000 C CNN
+F 1 "USB_A" H 4782 6151 50  0000 C CNN
+F 2 "" H 4875 5725 50  0001 C CNN
+F 3 " ~" H 4875 5725 50  0001 C CNN
+	1    4725 5775
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5025 5575 5500 5575
+Wire Wire Line
+	5500 5575 5500 5150
+$Comp
+L power:+5V #PWR?
+U 1 1 6110691F
+P 5500 5150
+F 0 "#PWR?" H 5500 5000 50  0001 C CNN
+F 1 "+5V" H 5515 5323 50  0000 C CNN
+F 2 "" H 5500 5150 50  0001 C CNN
+F 3 "" H 5500 5150 50  0001 C CNN
+	1    5500 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5025 5775 5500 5775
+Wire Wire Line
+	5025 5875 5500 5875
+Wire Wire Line
+	4725 6175 4725 6450
+$Comp
+L power:GNDS #PWR?
+U 1 1 61106928
+P 4725 6450
+F 0 "#PWR?" H 4725 6200 50  0001 C CNN
+F 1 "GNDS" H 4730 6277 50  0000 C CNN
+F 2 "" H 4725 6450 50  0001 C CNN
+F 3 "" H 4725 6450 50  0001 C CNN
+	1    4725 6450
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4625 6175
+NoConn ~ 4400 3950
+NoConn ~ 5300 2350
+NoConn ~ 5300 2450
+NoConn ~ 5300 2650
+NoConn ~ 5300 2750
+NoConn ~ 5300 2950
+NoConn ~ 5300 3050
+NoConn ~ 5300 3250
+NoConn ~ 5300 3350
+NoConn ~ 5300 3550
+NoConn ~ 5300 3650
+Text HLabel 6275 1850 2    50   Input ~ 0
+USBC_DM
+Text HLabel 6275 2050 2    50   Input ~ 0
+USBC_DP
+Text HLabel 5500 5775 2    50   Input ~ 0
+USBA_DP
+Text HLabel 5500 5875 2    50   Input ~ 0
+USBA_DM
+$EndSCHEMATC

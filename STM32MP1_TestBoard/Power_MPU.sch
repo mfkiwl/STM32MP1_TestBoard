@@ -1,0 +1,1739 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 11693 16535 portrait
+encoding utf-8
+Sheet 2 9
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	5675 5975 5675 5875
+Connection ~ 5675 5875
+Wire Wire Line
+	5675 5875 5325 5875
+Wire Wire Line
+	5675 6075 5675 5975
+Wire Wire Line
+	5675 6175 5675 6075
+Wire Wire Line
+	5675 6275 5675 6175
+Wire Wire Line
+	5675 6375 5675 6275
+Wire Wire Line
+	5675 6475 5675 6375
+Wire Wire Line
+	5675 6575 5675 6475
+Wire Wire Line
+	5675 6675 5675 6575
+Wire Wire Line
+	5675 6775 5675 6675
+Wire Wire Line
+	5675 6875 5675 6775
+Wire Wire Line
+	5675 6975 5675 6875
+Wire Wire Line
+	5675 7075 5675 6975
+Wire Wire Line
+	5675 7175 5675 7075
+Wire Wire Line
+	5675 2375 5675 2275
+Wire Wire Line
+	5675 2475 5675 2375
+Wire Wire Line
+	5675 2575 5675 2475
+Wire Wire Line
+	5675 2675 5675 2575
+Wire Wire Line
+	5675 2775 5675 2675
+Wire Wire Line
+	5675 2875 5675 2775
+Wire Wire Line
+	5675 2975 5675 2875
+Wire Wire Line
+	5675 3075 5675 2975
+Wire Wire Line
+	5675 3175 5675 3075
+Wire Wire Line
+	5675 3275 5675 3175
+Wire Wire Line
+	5675 3375 5675 3275
+Wire Wire Line
+	5675 3475 5675 3375
+Wire Wire Line
+	5675 3575 5675 3475
+Wire Wire Line
+	5675 3675 5675 3575
+Wire Wire Line
+	5675 3775 5675 3675
+Wire Wire Line
+	5675 3875 5675 3775
+Wire Wire Line
+	5675 3975 5675 3875
+Wire Wire Line
+	5675 4075 5675 3975
+Wire Wire Line
+	5675 4175 5675 4075
+Wire Wire Line
+	5675 4275 5675 4175
+Wire Wire Line
+	5675 4375 5675 4275
+Wire Wire Line
+	5675 4475 5675 4375
+Wire Wire Line
+	5675 4575 5675 4475
+Wire Wire Line
+	5675 4675 5675 4575
+Wire Wire Line
+	5675 4775 5675 4675
+Wire Wire Line
+	5675 4875 5675 4775
+Wire Wire Line
+	5675 4875 5675 4975
+Connection ~ 5675 4875
+Connection ~ 5675 4975
+Wire Wire Line
+	5675 4975 5675 5075
+Connection ~ 5675 5075
+Wire Wire Line
+	5675 5075 5675 5175
+Connection ~ 5675 5175
+Wire Wire Line
+	5675 5175 5675 5275
+Connection ~ 5675 5275
+Wire Wire Line
+	5675 5275 5675 5375
+Connection ~ 5675 5375
+Wire Wire Line
+	5675 5375 5675 5475
+Connection ~ 5675 5475
+Wire Wire Line
+	5675 5475 5675 5575
+Connection ~ 5675 4775
+Connection ~ 5675 4675
+Connection ~ 5675 4575
+Connection ~ 5675 4475
+Connection ~ 5675 4375
+Connection ~ 5675 4275
+Connection ~ 5675 4175
+Connection ~ 5675 4075
+Connection ~ 5675 3975
+Connection ~ 5675 3875
+Connection ~ 5675 3775
+Connection ~ 5675 3675
+Connection ~ 5675 3575
+Connection ~ 5675 3475
+Connection ~ 5675 3375
+Connection ~ 5675 2275
+Wire Wire Line
+	5675 2275 5325 2275
+Connection ~ 5675 2375
+Connection ~ 5675 2475
+Connection ~ 5675 2575
+Connection ~ 5675 2675
+Connection ~ 5675 2775
+Connection ~ 5675 2875
+Connection ~ 5675 2975
+Connection ~ 5675 3075
+Connection ~ 5675 3175
+Connection ~ 5675 3275
+Connection ~ 5675 5975
+Connection ~ 5675 6075
+Connection ~ 5675 6175
+Connection ~ 5675 6275
+Connection ~ 5675 6375
+Connection ~ 5675 6475
+Connection ~ 5675 6575
+Connection ~ 5675 6675
+Connection ~ 5675 6775
+Connection ~ 5675 6875
+Connection ~ 5675 6975
+Connection ~ 5675 7075
+Wire Wire Line
+	6025 7075 5675 7075
+Wire Wire Line
+	6025 6375 5675 6375
+Wire Wire Line
+	6025 5575 5675 5575
+Wire Wire Line
+	6025 7175 5675 7175
+Wire Wire Line
+	6025 6875 5675 6875
+Wire Wire Line
+	6025 6775 5675 6775
+Wire Wire Line
+	6025 5475 5675 5475
+Wire Wire Line
+	6025 6975 5675 6975
+Wire Wire Line
+	6025 6675 5675 6675
+Wire Wire Line
+	6025 6575 5675 6575
+Wire Wire Line
+	6025 6475 5675 6475
+Wire Wire Line
+	6025 5375 5675 5375
+Wire Wire Line
+	6025 5275 5675 5275
+Wire Wire Line
+	6025 6275 5675 6275
+Wire Wire Line
+	6025 6175 5675 6175
+Wire Wire Line
+	6025 5175 5675 5175
+Wire Wire Line
+	6025 5075 5675 5075
+Wire Wire Line
+	6025 4775 5675 4775
+Wire Wire Line
+	6025 6075 5675 6075
+Wire Wire Line
+	6025 5975 5675 5975
+Wire Wire Line
+	6025 4975 5675 4975
+Wire Wire Line
+	6025 4875 5675 4875
+Wire Wire Line
+	6025 4475 5675 4475
+Wire Wire Line
+	6025 5875 5675 5875
+Wire Wire Line
+	6025 4675 5675 4675
+Wire Wire Line
+	6025 4575 5675 4575
+Wire Wire Line
+	6025 4175 5675 4175
+Wire Wire Line
+	6025 4075 5675 4075
+Wire Wire Line
+	6025 4375 5675 4375
+Wire Wire Line
+	6025 4275 5675 4275
+Wire Wire Line
+	6025 3775 5675 3775
+Wire Wire Line
+	6025 3675 5675 3675
+Wire Wire Line
+	6025 3575 5675 3575
+Wire Wire Line
+	6025 3975 5675 3975
+Wire Wire Line
+	6025 3875 5675 3875
+Wire Wire Line
+	6025 3375 5675 3375
+Wire Wire Line
+	6025 3275 5675 3275
+Wire Wire Line
+	6025 3175 5675 3175
+Wire Wire Line
+	6025 3475 5675 3475
+Wire Wire Line
+	6025 2875 5675 2875
+Wire Wire Line
+	6025 2775 5675 2775
+Wire Wire Line
+	6025 2675 5675 2675
+Wire Wire Line
+	6025 3075 5675 3075
+Wire Wire Line
+	6025 2975 5675 2975
+Wire Wire Line
+	6025 2375 5675 2375
+Wire Wire Line
+	6025 2275 5675 2275
+Wire Wire Line
+	6025 2575 5675 2575
+Wire Wire Line
+	6025 2475 5675 2475
+Wire Wire Line
+	7825 2275 9375 2275
+Wire Wire Line
+	9375 2275 9375 2375
+$Comp
+L power:GNDS #PWR?
+U 1 1 6046CE0A
+P 9375 12825
+AR Path="/6046CE0A" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CE0A" Ref="#PWR026"  Part="1" 
+F 0 "#PWR026" H 9375 12575 50  0001 C CNN
+F 1 "GNDS" H 9380 12652 50  0000 C CNN
+F 2 "" H 9375 12825 50  0001 C CNN
+F 3 "" H 9375 12825 50  0001 C CNN
+	1    9375 12825
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7825 2375 9375 2375
+Connection ~ 9375 2375
+Wire Wire Line
+	9375 2375 9375 2475
+Wire Wire Line
+	7825 2475 9375 2475
+Connection ~ 9375 2475
+Wire Wire Line
+	9375 2475 9375 2575
+Wire Wire Line
+	7825 2575 9375 2575
+Connection ~ 9375 2575
+Wire Wire Line
+	9375 2575 9375 2675
+Wire Wire Line
+	7825 2675 9375 2675
+Connection ~ 9375 2675
+Wire Wire Line
+	7825 2775 9375 2775
+Wire Wire Line
+	9375 2675 9375 2775
+Connection ~ 9375 2775
+Wire Wire Line
+	9375 2775 9375 2875
+Wire Wire Line
+	7825 2875 9375 2875
+Connection ~ 9375 2875
+Wire Wire Line
+	9375 2875 9375 2975
+Wire Wire Line
+	7825 2975 9375 2975
+Wire Wire Line
+	9375 2975 9375 3075
+Wire Wire Line
+	7825 3075 9375 3075
+Connection ~ 9375 3075
+Wire Wire Line
+	9375 3075 9375 3175
+Wire Wire Line
+	7825 3175 9375 3175
+Connection ~ 9375 3175
+Wire Wire Line
+	9375 3175 9375 3275
+Wire Wire Line
+	7825 3275 9375 3275
+Connection ~ 9375 3275
+Wire Wire Line
+	7825 3375 9375 3375
+Wire Wire Line
+	9375 3275 9375 3375
+Connection ~ 9375 3375
+Wire Wire Line
+	9375 3375 9375 3475
+Wire Wire Line
+	7825 3475 9375 3475
+Wire Wire Line
+	7825 3575 9375 3575
+Wire Wire Line
+	9375 3575 9375 3675
+Wire Wire Line
+	7825 3675 9375 3675
+Connection ~ 9375 3675
+Wire Wire Line
+	9375 3675 9375 3775
+Wire Wire Line
+	7825 3775 9375 3775
+Connection ~ 9375 3775
+Wire Wire Line
+	9375 3775 9375 3875
+Wire Wire Line
+	7825 3875 9375 3875
+Connection ~ 9375 3875
+Wire Wire Line
+	7825 3975 9375 3975
+Wire Wire Line
+	9375 3875 9375 3975
+Connection ~ 9375 3975
+Wire Wire Line
+	9375 3975 9375 4075
+Wire Wire Line
+	7825 4075 9375 4075
+Wire Wire Line
+	7825 4175 9375 4175
+Wire Wire Line
+	9375 4175 9375 4275
+Wire Wire Line
+	7825 4275 9375 4275
+Connection ~ 9375 4275
+Wire Wire Line
+	9375 4275 9375 4375
+Wire Wire Line
+	7825 4375 9375 4375
+Connection ~ 9375 4375
+Wire Wire Line
+	9375 4375 9375 4475
+Wire Wire Line
+	7825 4475 9375 4475
+Connection ~ 9375 4475
+Wire Wire Line
+	7825 4575 9375 4575
+Wire Wire Line
+	9375 4475 9375 4575
+Connection ~ 9375 4575
+Wire Wire Line
+	9375 4575 9375 4675
+Wire Wire Line
+	7825 4675 9375 4675
+Wire Wire Line
+	7825 4775 9375 4775
+Wire Wire Line
+	9375 4775 9375 4875
+Wire Wire Line
+	7825 4875 9375 4875
+Connection ~ 9375 4875
+Wire Wire Line
+	9375 4875 9375 4975
+Wire Wire Line
+	7825 4975 9375 4975
+Connection ~ 9375 4975
+Wire Wire Line
+	9375 4975 9375 5075
+Wire Wire Line
+	7825 5075 9375 5075
+Connection ~ 9375 5075
+Wire Wire Line
+	7825 5175 9375 5175
+Wire Wire Line
+	9375 5075 9375 5175
+Connection ~ 9375 5175
+Wire Wire Line
+	9375 5175 9375 5275
+Wire Wire Line
+	7825 5275 9375 5275
+Wire Wire Line
+	9375 5275 9375 5375
+Wire Wire Line
+	7825 5375 9375 5375
+Connection ~ 9375 5375
+Wire Wire Line
+	9375 5375 9375 5475
+Wire Wire Line
+	7825 5475 9375 5475
+Connection ~ 9375 5475
+Wire Wire Line
+	9375 5475 9375 5575
+Wire Wire Line
+	7825 5575 9375 5575
+Connection ~ 9375 5575
+Wire Wire Line
+	7825 5675 9375 5675
+Wire Wire Line
+	9375 5575 9375 5675
+Connection ~ 9375 5675
+Wire Wire Line
+	9375 5675 9375 5775
+Wire Wire Line
+	7825 5775 9375 5775
+Wire Wire Line
+	7825 5875 9375 5875
+Wire Wire Line
+	9375 5875 9375 5975
+Wire Wire Line
+	7825 5975 9375 5975
+Connection ~ 9375 5975
+Wire Wire Line
+	9375 5975 9375 6075
+Wire Wire Line
+	7825 6075 9375 6075
+Connection ~ 9375 6075
+Wire Wire Line
+	9375 6075 9375 6175
+Wire Wire Line
+	7825 6175 9375 6175
+Connection ~ 9375 6175
+Wire Wire Line
+	7825 6275 9375 6275
+Wire Wire Line
+	9375 6175 9375 6275
+Connection ~ 9375 6275
+Wire Wire Line
+	9375 6275 9375 6375
+Wire Wire Line
+	7825 6375 9375 6375
+Wire Wire Line
+	7825 6475 9375 6475
+Wire Wire Line
+	9375 6475 9375 6575
+Wire Wire Line
+	7825 6575 9375 6575
+Connection ~ 9375 6575
+Wire Wire Line
+	9375 6575 9375 6675
+Wire Wire Line
+	7825 6675 9375 6675
+Connection ~ 9375 6675
+Wire Wire Line
+	9375 6675 9375 6775
+Wire Wire Line
+	7825 6775 9375 6775
+Connection ~ 9375 6775
+Wire Wire Line
+	7825 6875 9375 6875
+Wire Wire Line
+	9375 6775 9375 6875
+Connection ~ 9375 6875
+Wire Wire Line
+	9375 6875 9375 6975
+Wire Wire Line
+	7825 6975 9375 6975
+Wire Wire Line
+	7825 7075 9375 7075
+Wire Wire Line
+	9375 7075 9375 7175
+Wire Wire Line
+	7825 7175 9375 7175
+Connection ~ 9375 7175
+Wire Wire Line
+	9375 7175 9375 7275
+Wire Wire Line
+	7825 7275 9375 7275
+Connection ~ 9375 7275
+Wire Wire Line
+	9375 7275 9375 7375
+Wire Wire Line
+	7825 7375 9375 7375
+Connection ~ 9375 7375
+Wire Wire Line
+	7825 7475 9375 7475
+Wire Wire Line
+	9375 7375 9375 7475
+Connection ~ 9375 7475
+Wire Wire Line
+	9375 7475 9375 7575
+Wire Wire Line
+	7825 7575 9375 7575
+Wire Wire Line
+	7825 7675 9375 7675
+Wire Wire Line
+	9375 7675 9375 7775
+Wire Wire Line
+	7825 7775 9375 7775
+Connection ~ 9375 7775
+Wire Wire Line
+	9375 7775 9375 7875
+Wire Wire Line
+	7825 7875 9375 7875
+Connection ~ 9375 7875
+Wire Wire Line
+	9375 7875 9375 7975
+Wire Wire Line
+	7825 7975 9375 7975
+Connection ~ 9375 7975
+Wire Wire Line
+	7825 8075 9375 8075
+Wire Wire Line
+	9375 7975 9375 8075
+Connection ~ 9375 8075
+Wire Wire Line
+	9375 8075 9375 8175
+Wire Wire Line
+	7825 8175 9375 8175
+Wire Wire Line
+	7825 8275 9375 8275
+Wire Wire Line
+	9375 8275 9375 8375
+Wire Wire Line
+	7825 8375 9375 8375
+Connection ~ 9375 8375
+Wire Wire Line
+	9375 8375 9375 8475
+Wire Wire Line
+	7825 8475 9375 8475
+Connection ~ 9375 8475
+Wire Wire Line
+	9375 8475 9375 8575
+Wire Wire Line
+	7825 8575 9375 8575
+Connection ~ 9375 8575
+Wire Wire Line
+	7825 8675 9375 8675
+Wire Wire Line
+	9375 8575 9375 8675
+Connection ~ 9375 8675
+Wire Wire Line
+	9375 8675 9375 8775
+Wire Wire Line
+	7825 8775 9375 8775
+Wire Wire Line
+	7825 8875 9375 8875
+Wire Wire Line
+	9375 8875 9375 8975
+Wire Wire Line
+	7825 8975 9375 8975
+Connection ~ 9375 8975
+Wire Wire Line
+	9375 8975 9375 9075
+Wire Wire Line
+	7825 9075 9375 9075
+Connection ~ 9375 9075
+Wire Wire Line
+	9375 9075 9375 9175
+Wire Wire Line
+	7825 9175 9375 9175
+Connection ~ 9375 9175
+Wire Wire Line
+	7825 9275 9375 9275
+Wire Wire Line
+	9375 9175 9375 9275
+Connection ~ 9375 9275
+Wire Wire Line
+	9375 9275 9375 9375
+Wire Wire Line
+	7825 9375 9375 9375
+Wire Wire Line
+	7825 9475 9375 9475
+Wire Wire Line
+	9375 9475 9375 9575
+Wire Wire Line
+	7825 9575 9375 9575
+Connection ~ 9375 9575
+Wire Wire Line
+	9375 9575 9375 9675
+Wire Wire Line
+	7825 9675 9375 9675
+Connection ~ 9375 9675
+Wire Wire Line
+	9375 9675 9375 9775
+Wire Wire Line
+	7825 9775 9375 9775
+Connection ~ 9375 9775
+Wire Wire Line
+	7825 9875 9375 9875
+Wire Wire Line
+	9375 9775 9375 9875
+Connection ~ 9375 9875
+Wire Wire Line
+	9375 9875 9375 9975
+Wire Wire Line
+	7825 9975 9375 9975
+Wire Wire Line
+	7825 10075 9375 10075
+Wire Wire Line
+	9375 10075 9375 10175
+Wire Wire Line
+	7825 10175 9375 10175
+Connection ~ 9375 10175
+Wire Wire Line
+	9375 10175 9375 10275
+Wire Wire Line
+	7825 10275 9375 10275
+Connection ~ 9375 10275
+Wire Wire Line
+	9375 10275 9375 10375
+Wire Wire Line
+	7825 10375 9375 10375
+Connection ~ 9375 10375
+Wire Wire Line
+	7825 10475 9375 10475
+Wire Wire Line
+	9375 10375 9375 10475
+Connection ~ 9375 10475
+Wire Wire Line
+	9375 10475 9375 10575
+Wire Wire Line
+	7825 10575 9375 10575
+Wire Wire Line
+	7825 10675 9375 10675
+Wire Wire Line
+	9375 10675 9375 10775
+Wire Wire Line
+	7825 10775 9375 10775
+Connection ~ 9375 10775
+Wire Wire Line
+	9375 10775 9375 10875
+Wire Wire Line
+	7825 10875 9375 10875
+Connection ~ 9375 10875
+Wire Wire Line
+	9375 10875 9375 10975
+Wire Wire Line
+	7825 10975 9375 10975
+Connection ~ 9375 10975
+Wire Wire Line
+	7825 11075 9375 11075
+Wire Wire Line
+	9375 10975 9375 11075
+Connection ~ 9375 11075
+Wire Wire Line
+	9375 11075 9375 11175
+Wire Wire Line
+	7825 11175 9375 11175
+Wire Wire Line
+	7825 11275 9375 11275
+Connection ~ 9375 11275
+Wire Wire Line
+	9375 11275 9375 11475
+Connection ~ 9375 3475
+Wire Wire Line
+	9375 3475 9375 3575
+Connection ~ 9375 3575
+Connection ~ 9375 4075
+Wire Wire Line
+	9375 4075 9375 4175
+Connection ~ 9375 4175
+Connection ~ 9375 4675
+Wire Wire Line
+	9375 4675 9375 4775
+Connection ~ 9375 4775
+Connection ~ 9375 5275
+Connection ~ 9375 5775
+Wire Wire Line
+	9375 5775 9375 5875
+Connection ~ 9375 5875
+Connection ~ 9375 6375
+Wire Wire Line
+	9375 6375 9375 6475
+Connection ~ 9375 6475
+Connection ~ 9375 6975
+Wire Wire Line
+	9375 6975 9375 7075
+Connection ~ 9375 7075
+Connection ~ 9375 7575
+Wire Wire Line
+	9375 7575 9375 7675
+Connection ~ 9375 7675
+Connection ~ 9375 8175
+Wire Wire Line
+	9375 8175 9375 8275
+Connection ~ 9375 8275
+Connection ~ 9375 8775
+Wire Wire Line
+	9375 8775 9375 8875
+Connection ~ 9375 8875
+Connection ~ 9375 9375
+Wire Wire Line
+	9375 9375 9375 9475
+Connection ~ 9375 9475
+Connection ~ 9375 9975
+Wire Wire Line
+	9375 9975 9375 10075
+Connection ~ 9375 10075
+Connection ~ 9375 10575
+Wire Wire Line
+	9375 10575 9375 10675
+Connection ~ 9375 10675
+Connection ~ 9375 11175
+Wire Wire Line
+	9375 11175 9375 11275
+Connection ~ 9375 2975
+Text Label 5675 8825 2    50   ~ 0
+3.3V
+$Comp
+L Device:L L?
+U 1 1 6046CF1F
+P 5425 9025
+AR Path="/6046CF1F" Ref="L?"  Part="1" 
+AR Path="/6044C48A/6046CF1F" Ref="L3"  Part="1" 
+F 0 "L3" V 5500 9025 50  0000 C CNN
+F 1 "LQM18FN4R7M00D " V 5350 9025 50  0000 C CNN
+F 2 "Inductor_SMD:L_0201_0603Metric_Pad0.64x0.40mm_HandSolder" H 5425 9025 50  0001 C CNN
+F 3 "https://www.mouser.co.uk/datasheet/2/281/JELF243B-0012-1633801.pdf" H 5425 9025 50  0001 C CNN
+	1    5425 9025
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5575 9025 6025 9025
+$Comp
+L power:+3.3V #PWR?
+U 1 1 6046CF26
+P 5325 5775
+AR Path="/6046CF26" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CF26" Ref="#PWR023"  Part="1" 
+F 0 "#PWR023" H 5325 5625 50  0001 C CNN
+F 1 "+3.3V" H 5340 5948 50  0000 C CNN
+F 2 "" H 5325 5775 50  0001 C CNN
+F 3 "" H 5325 5775 50  0001 C CNN
+	1    5325 5775
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5325 5775 5325 5875
+$Comp
+L power:+1V35 #PWR?
+U 1 1 6046CF2D
+P 5325 2100
+AR Path="/6046CF2D" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CF2D" Ref="#PWR022"  Part="1" 
+F 0 "#PWR022" H 5325 1950 50  0001 C CNN
+F 1 "+1V35" H 5340 2273 50  0000 C CNN
+F 2 "" H 5325 2100 50  0001 C CNN
+F 3 "" H 5325 2100 50  0001 C CNN
+	1    5325 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5325 2100 5325 2275
+$Comp
+L power:+3.3V #PWR?
+U 1 1 6046CF34
+P 4350 8725
+AR Path="/6046CF34" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CF34" Ref="#PWR016"  Part="1" 
+F 0 "#PWR016" H 4350 8575 50  0001 C CNN
+F 1 "+3.3V" H 4365 8898 50  0000 C CNN
+F 2 "" H 4350 8725 50  0001 C CNN
+F 3 "" H 4350 8725 50  0001 C CNN
+	1    4350 8725
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 8825 4350 8725
+Wire Wire Line
+	4350 8825 6025 8825
+Wire Wire Line
+	5275 9025 4350 9025
+Wire Wire Line
+	4350 9025 4350 8825
+Connection ~ 4350 8825
+$Comp
+L Device:C C?
+U 1 1 6046CF3F
+P 4350 9400
+AR Path="/6046CF3F" Ref="C?"  Part="1" 
+AR Path="/6044C48A/6046CF3F" Ref="C12"  Part="1" 
+F 0 "C12" H 4465 9446 50  0000 L CNN
+F 1 "1uF" H 4465 9355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 4388 9250 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 4350 9400 50  0001 C CNN
+F 4 "Taiyo Yuden" H 4350 9400 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 4350 9400 50  0001 C CNN "PartNo"
+	1    4350 9400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 9250 4350 9025
+Connection ~ 4350 9025
+Wire Wire Line
+	4350 9550 4350 9625
+Wire Wire Line
+	4350 9625 4875 9625
+Wire Wire Line
+	5900 9625 5900 9725
+Wire Wire Line
+	5900 9725 6025 9725
+Connection ~ 5900 9625
+Wire Wire Line
+	5900 9625 6025 9625
+Wire Wire Line
+	5900 9725 5900 9825
+Wire Wire Line
+	5900 9825 6025 9825
+Connection ~ 5900 9725
+Wire Wire Line
+	4875 9250 4875 9175
+Wire Wire Line
+	4875 9175 6025 9175
+Wire Wire Line
+	4875 9550 4875 9625
+Connection ~ 4875 9625
+Wire Wire Line
+	4875 9625 5900 9625
+$Comp
+L Device:C C?
+U 1 1 6046CF55
+P 4875 9400
+AR Path="/6046CF55" Ref="C?"  Part="1" 
+AR Path="/6044C48A/6046CF55" Ref="C14"  Part="1" 
+F 0 "C14" H 4990 9446 50  0000 L CNN
+F 1 "1uF" H 4990 9355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 4913 9250 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 4875 9400 50  0001 C CNN
+F 4 "Taiyo Yuden" H 4875 9400 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 4875 9400 50  0001 C CNN "PartNo"
+	1    4875 9400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5175 10575 6025 10575
+Wire Wire Line
+	6025 10475 5175 10475
+Wire Wire Line
+	6025 11275 5450 11275
+Wire Wire Line
+	5150 11275 4925 11275
+Wire Wire Line
+	6025 11925 5700 11925
+Wire Wire Line
+	5700 11925 5700 11775
+Wire Wire Line
+	5700 11775 6025 11775
+Wire Wire Line
+	6025 10975 5700 10975
+$Comp
+L Device:C C?
+U 1 1 6046CF9C
+P 5300 10975
+AR Path="/6046CF9C" Ref="C?"  Part="1" 
+AR Path="/6044C48A/6046CF9C" Ref="C15"  Part="1" 
+F 0 "C15" V 5225 10750 50  0000 L CNN
+F 1 "1uF" V 5225 11050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 5338 10825 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 5300 10975 50  0001 C CNN
+F 4 "Taiyo Yuden" H 5300 10975 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 5300 10975 50  0001 C CNN "PartNo"
+	1    5300 10975
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5700 10975 5700 11075
+Wire Wire Line
+	5700 11075 6025 11075
+Connection ~ 5700 10975
+Wire Wire Line
+	5700 10975 5450 10975
+Wire Wire Line
+	4925 11275 4925 10975
+Connection ~ 4925 10975
+Wire Wire Line
+	4925 10975 5150 10975
+$Comp
+L Device:C C?
+U 1 1 6046CFB5
+P 4750 13450
+AR Path="/6046CFB5" Ref="C?"  Part="1" 
+AR Path="/6044C48A/6046CFB5" Ref="C17"  Part="1" 
+F 0 "C17" H 4450 13500 50  0000 L CNN
+F 1 "100nF" H 4400 13400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 4788 13300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 4750 13450 50  0001 C CNN
+F 4 "Taiyo Yuden" H 4750 13450 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 4750 13450 50  0001 C CNN "PartNo"
+	1    4750 13450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4750 13600 4750 13675
+$Comp
+L power:GNDS #PWR?
+U 1 1 6046CFBC
+P 4750 13675
+AR Path="/6046CFBC" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CFBC" Ref="#PWR025"  Part="1" 
+F 0 "#PWR025" H 4750 13425 50  0001 C CNN
+F 1 "GNDS" H 4755 13502 50  0000 C CNN
+F 2 "" H 4750 13675 50  0001 C CNN
+F 3 "" H 4750 13675 50  0001 C CNN
+	1    4750 13675
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6025 12375 5800 12375
+Wire Wire Line
+	4750 13200 4750 13300
+Wire Wire Line
+	6025 12525 5800 12525
+Wire Wire Line
+	5800 12525 5800 12375
+Wire Wire Line
+	6025 7475 5675 7475
+$Comp
+L power:+1V35 #PWR?
+U 1 1 6046CFD2
+P 5350 7300
+AR Path="/6046CFD2" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CFD2" Ref="#PWR024"  Part="1" 
+F 0 "#PWR024" H 5350 7150 50  0001 C CNN
+F 1 "+1V35" H 5365 7473 50  0000 C CNN
+F 2 "" H 5350 7300 50  0001 C CNN
+F 3 "" H 5350 7300 50  0001 C CNN
+	1    5350 7300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 7300 5350 7475
+Wire Wire Line
+	5675 7475 5675 7575
+Wire Wire Line
+	5675 7575 6025 7575
+Connection ~ 5675 7475
+Wire Wire Line
+	5675 7475 5350 7475
+Wire Wire Line
+	5675 7575 5675 7675
+Wire Wire Line
+	5675 7675 6025 7675
+Connection ~ 5675 7575
+Wire Wire Line
+	5675 7675 5675 7775
+Wire Wire Line
+	5675 7775 6025 7775
+Connection ~ 5675 7675
+Wire Wire Line
+	5675 7775 5675 7875
+Wire Wire Line
+	5675 7875 6025 7875
+Connection ~ 5675 7775
+Wire Wire Line
+	5675 7875 5675 7975
+Wire Wire Line
+	5675 7975 6025 7975
+Connection ~ 5675 7875
+Wire Wire Line
+	5675 7975 5675 8075
+Wire Wire Line
+	5675 8075 6025 8075
+Connection ~ 5675 7975
+Wire Wire Line
+	5675 8075 5675 8175
+Wire Wire Line
+	5675 8175 6025 8175
+Connection ~ 5675 8075
+Wire Wire Line
+	6025 8275 5675 8275
+Wire Wire Line
+	5675 8275 5675 8175
+Connection ~ 5675 8175
+Wire Wire Line
+	6025 8375 5675 8375
+Wire Wire Line
+	5675 8375 5675 8275
+Connection ~ 5675 8275
+Wire Wire Line
+	6025 8475 5675 8475
+Wire Wire Line
+	5675 8475 5675 8375
+Connection ~ 5675 8375
+$Comp
+L power:+3.3V #PWR?
+U 1 1 6046CFF8
+P 5175 10200
+AR Path="/6046CFF8" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CFF8" Ref="#PWR020"  Part="1" 
+F 0 "#PWR020" H 5175 10050 50  0001 C CNN
+F 1 "+3.3V" H 5190 10373 50  0000 C CNN
+F 2 "" H 5175 10200 50  0001 C CNN
+F 3 "" H 5175 10200 50  0001 C CNN
+	1    5175 10200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5175 10200 5175 10275
+Wire Wire Line
+	5175 10375 6025 10375
+Wire Wire Line
+	6025 10275 5175 10275
+Connection ~ 5175 10275
+Wire Wire Line
+	5175 10275 5175 10375
+Wire Wire Line
+	6025 9925 5900 9925
+Wire Wire Line
+	5900 9925 5900 9825
+Connection ~ 5900 9825
+Wire Wire Line
+	7825 11475 9375 11475
+Wire Wire Line
+	7825 11575 9375 11575
+Wire Wire Line
+	7825 11675 9375 11675
+Wire Wire Line
+	7825 11775 9375 11775
+Wire Wire Line
+	7825 11875 9375 11875
+Connection ~ 9375 11475
+Wire Wire Line
+	9375 11475 9375 11575
+Connection ~ 9375 11575
+Wire Wire Line
+	9375 11575 9375 11675
+Connection ~ 9375 11675
+Wire Wire Line
+	9375 11675 9375 11775
+Connection ~ 9375 11775
+Wire Wire Line
+	9375 11775 9375 11875
+Connection ~ 9375 11875
+Wire Wire Line
+	9375 11875 9375 12425
+Wire Wire Line
+	7825 12425 9375 12425
+Connection ~ 9375 12425
+Wire Wire Line
+	9375 12425 9375 12525
+Wire Wire Line
+	7825 12525 9375 12525
+Connection ~ 9375 12525
+Wire Wire Line
+	9375 12525 9375 12825
+$Comp
+L STM32MP151:STM32MP157xAB U?
+U 4 1 6046CF5B
+P 6975 6575
+AR Path="/6046CF5B" Ref="U?"  Part="4" 
+AR Path="/6044C48A/6046CF5B" Ref="U5"  Part="4" 
+F 0 "U5" H 7400 11140 50  0000 C CNN
+F 1 "STM32MP157xAB" H 7400 11049 50  0000 C CNN
+F 2 "STM32MP151_LFBGA:BGA-361_19x19_16.0x16.0mm" H 6875 11825 50  0001 C CNN
+F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 7225 9725 50  0001 C CNN
+	4    6975 6575
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4625 10975 4925 10975
+Wire Wire Line
+	4625 11075 4625 10975
+Wire Wire Line
+	3225 11775 5700 11775
+Connection ~ 3225 11775
+Wire Wire Line
+	2775 11775 3225 11775
+Connection ~ 2775 11775
+$Comp
+L power:GNDS #PWR?
+U 1 1 6046CFA2
+P 4625 11075
+AR Path="/6046CFA2" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CFA2" Ref="#PWR018"  Part="1" 
+F 0 "#PWR018" H 4625 10825 50  0001 C CNN
+F 1 "GNDS" H 4630 10902 50  0000 C CNN
+F 2 "" H 4625 11075 50  0001 C CNN
+F 3 "" H 4625 11075 50  0001 C CNN
+	1    4625 11075
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDS #PWR?
+U 1 1 6046CF91
+P 2775 12225
+AR Path="/6046CF91" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CF91" Ref="#PWR015"  Part="1" 
+F 0 "#PWR015" H 2775 11975 50  0001 C CNN
+F 1 "GNDS" H 2780 12052 50  0000 C CNN
+F 2 "" H 2775 12225 50  0001 C CNN
+F 3 "" H 2775 12225 50  0001 C CNN
+	1    2775 12225
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2775 12150 2775 12225
+$Comp
+L Device:C C?
+U 1 1 6046CF8A
+P 2775 12000
+AR Path="/6046CF8A" Ref="C?"  Part="1" 
+AR Path="/6044C48A/6046CF8A" Ref="C11"  Part="1" 
+F 0 "C11" H 2475 12050 50  0000 L CNN
+F 1 "100nF" H 2425 11950 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 2813 11850 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 2775 12000 50  0001 C CNN
+F 4 "Taiyo Yuden" H 2775 12000 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 2775 12000 50  0001 C CNN "PartNo"
+	1    2775 12000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2775 11775 2775 11850
+Wire Wire Line
+	2775 11600 2775 11775
+$Comp
+L power:+1V8 #PWR?
+U 1 1 6046CF82
+P 2775 11600
+AR Path="/6046CF82" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CF82" Ref="#PWR014"  Part="1" 
+F 0 "#PWR014" H 2775 11450 50  0001 C CNN
+F 1 "+1V8" H 2790 11773 50  0000 C CNN
+F 2 "" H 2775 11600 50  0001 C CNN
+F 3 "" H 2775 11600 50  0001 C CNN
+	1    2775 11600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDS #PWR?
+U 1 1 6046CF7C
+P 3225 12225
+AR Path="/6046CF7C" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6046CF7C" Ref="#PWR017"  Part="1" 
+F 0 "#PWR017" H 3225 11975 50  0001 C CNN
+F 1 "GNDS" H 3230 12052 50  0000 C CNN
+F 2 "" H 3225 12225 50  0001 C CNN
+F 3 "" H 3225 12225 50  0001 C CNN
+	1    3225 12225
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3225 12150 3225 12225
+$Comp
+L Device:C C?
+U 1 1 6046CF75
+P 3225 12000
+AR Path="/6046CF75" Ref="C?"  Part="1" 
+AR Path="/6044C48A/6046CF75" Ref="C13"  Part="1" 
+F 0 "C13" H 3340 12046 50  0000 L CNN
+F 1 "1uF" H 3340 11955 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3263 11850 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 3225 12000 50  0001 C CNN
+F 4 "Taiyo Yuden" H 3225 12000 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 3225 12000 50  0001 C CNN "PartNo"
+	1    3225 12000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3225 11775 3225 11850
+$Comp
+L Device:C C?
+U 1 1 6046CF6D
+P 5300 11275
+AR Path="/6046CF6D" Ref="C?"  Part="1" 
+AR Path="/6044C48A/6046CF6D" Ref="C16"  Part="1" 
+F 0 "C16" V 5225 11050 50  0000 L CNN
+F 1 "1uF" V 5225 11350 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 5338 11125 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 5300 11275 50  0001 C CNN
+F 4 "Taiyo Yuden" H 5300 11275 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 5300 11275 50  0001 C CNN "PartNo"
+	1    5300 11275
+	0    1    1    0   
+$EndComp
+Text Label 5275 13200 2    50   ~ 0
+3V3_Delayed
+Connection ~ 5800 12375
+Wire Wire Line
+	4750 13200 5475 13200
+Wire Wire Line
+	5475 13200 5475 12375
+Wire Wire Line
+	5475 12375 5800 12375
+Connection ~ 5175 10375
+Wire Wire Line
+	5175 10375 5175 10475
+Connection ~ 5175 10475
+Wire Wire Line
+	5175 10475 5175 10575
+Connection ~ 5700 11775
+$Comp
+L Device:C C?
+U 1 1 5FF50A66
+P 1750 3750
+AR Path="/5FF50A66" Ref="C?"  Part="1" 
+AR Path="/6044C48A/5FF50A66" Ref="C18"  Part="1" 
+F 0 "C18" H 1865 3796 50  0000 L CNN
+F 1 "1uF" H 1865 3705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 1788 3600 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 1750 3750 50  0001 C CNN
+F 4 "Taiyo Yuden" H 1750 3750 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 1750 3750 50  0001 C CNN "PartNo"
+	1    1750 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4600 3500 4175 3500
+$Comp
+L power:+1V35 #PWR?
+U 1 1 5FF51A6F
+P 1300 3325
+AR Path="/5FF51A6F" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/5FF51A6F" Ref="#PWR028"  Part="1" 
+F 0 "#PWR028" H 1300 3175 50  0001 C CNN
+F 1 "+1V35" H 1315 3498 50  0000 C CNN
+F 2 "" H 1300 3325 50  0001 C CNN
+F 3 "" H 1300 3325 50  0001 C CNN
+	1    1300 3325
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 3325 1300 3500
+Wire Wire Line
+	1750 3600 1750 3500
+Connection ~ 1750 3500
+Wire Wire Line
+	1750 3500 1300 3500
+Wire Wire Line
+	1750 3900 1750 4050
+Wire Wire Line
+	1750 4050 1300 4050
+Wire Wire Line
+	1300 4050 1300 4200
+$Comp
+L power:GNDS #PWR029
+U 1 1 5FFE444C
+P 1300 4200
+F 0 "#PWR029" H 1300 3950 50  0001 C CNN
+F 1 "GNDS" H 1305 4027 50  0000 C CNN
+F 2 "" H 1300 4200 50  0001 C CNN
+F 3 "" H 1300 4200 50  0001 C CNN
+	1    1300 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1750 4050 2150 4050
+Connection ~ 1750 4050
+$Comp
+L Device:C C?
+U 1 1 6000B640
+P 2150 3750
+AR Path="/6000B640" Ref="C?"  Part="1" 
+AR Path="/6044C48A/6000B640" Ref="C21"  Part="1" 
+F 0 "C21" H 2265 3796 50  0000 L CNN
+F 1 "1uF" H 2265 3705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 2188 3600 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 2150 3750 50  0001 C CNN
+F 4 "Taiyo Yuden" H 2150 3750 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 2150 3750 50  0001 C CNN "PartNo"
+	1    2150 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 3600 2150 3500
+Wire Wire Line
+	2150 3900 2150 4050
+$Comp
+L Device:C C?
+U 1 1 60031D34
+P 2575 3750
+AR Path="/60031D34" Ref="C?"  Part="1" 
+AR Path="/6044C48A/60031D34" Ref="C24"  Part="1" 
+F 0 "C24" H 2690 3796 50  0000 L CNN
+F 1 "1uF" H 2690 3705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 2613 3600 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 2575 3750 50  0001 C CNN
+F 4 "Taiyo Yuden" H 2575 3750 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 2575 3750 50  0001 C CNN "PartNo"
+	1    2575 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2575 3600 2575 3500
+Wire Wire Line
+	2575 3900 2575 4050
+$Comp
+L Device:C C?
+U 1 1 60058B96
+P 2975 3750
+AR Path="/60058B96" Ref="C?"  Part="1" 
+AR Path="/6044C48A/60058B96" Ref="C27"  Part="1" 
+F 0 "C27" H 3090 3796 50  0000 L CNN
+F 1 "1uF" H 3090 3705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3013 3600 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 2975 3750 50  0001 C CNN
+F 4 "Taiyo Yuden" H 2975 3750 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 2975 3750 50  0001 C CNN "PartNo"
+	1    2975 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2975 3600 2975 3500
+Wire Wire Line
+	2975 3900 2975 4050
+$Comp
+L Device:C C?
+U 1 1 600803D3
+P 3375 3750
+AR Path="/600803D3" Ref="C?"  Part="1" 
+AR Path="/6044C48A/600803D3" Ref="C30"  Part="1" 
+F 0 "C30" H 3490 3796 50  0000 L CNN
+F 1 "1uF" H 3490 3705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3413 3600 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 3375 3750 50  0001 C CNN
+F 4 "Taiyo Yuden" H 3375 3750 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 3375 3750 50  0001 C CNN "PartNo"
+	1    3375 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3375 3600 3375 3500
+Wire Wire Line
+	3375 3900 3375 4050
+$Comp
+L Device:C C?
+U 1 1 600A87DD
+P 3775 3750
+AR Path="/600A87DD" Ref="C?"  Part="1" 
+AR Path="/6044C48A/600A87DD" Ref="C32"  Part="1" 
+F 0 "C32" H 3890 3796 50  0000 L CNN
+F 1 "1uF" H 3890 3705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3813 3600 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 3775 3750 50  0001 C CNN
+F 4 "Taiyo Yuden" H 3775 3750 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 3775 3750 50  0001 C CNN "PartNo"
+	1    3775 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3775 3600 3775 3500
+Wire Wire Line
+	3775 3900 3775 4050
+$Comp
+L Device:C C?
+U 1 1 600D14FC
+P 4175 3750
+AR Path="/600D14FC" Ref="C?"  Part="1" 
+AR Path="/6044C48A/600D14FC" Ref="C34"  Part="1" 
+F 0 "C34" H 4290 3796 50  0000 L CNN
+F 1 "1uF" H 4290 3705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 4213 3600 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 4175 3750 50  0001 C CNN
+F 4 "Taiyo Yuden" H 4175 3750 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 4175 3750 50  0001 C CNN "PartNo"
+	1    4175 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4175 3600 4175 3500
+Wire Wire Line
+	4175 3900 4175 4050
+$Comp
+L Device:C C?
+U 1 1 600FAA91
+P 4600 3750
+AR Path="/600FAA91" Ref="C?"  Part="1" 
+AR Path="/6044C48A/600FAA91" Ref="C35"  Part="1" 
+F 0 "C35" H 4715 3796 50  0000 L CNN
+F 1 "1uF" H 4715 3705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 4638 3600 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 4600 3750 50  0001 C CNN
+F 4 "Taiyo Yuden" H 4600 3750 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 4600 3750 50  0001 C CNN "PartNo"
+	1    4600 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4600 3600 4600 3500
+Wire Wire Line
+	4600 3900 4600 4050
+Connection ~ 2150 3500
+Wire Wire Line
+	2150 3500 1750 3500
+Connection ~ 2575 3500
+Wire Wire Line
+	2575 3500 2150 3500
+Connection ~ 2975 3500
+Wire Wire Line
+	2975 3500 2575 3500
+Connection ~ 3375 3500
+Wire Wire Line
+	3375 3500 2975 3500
+Connection ~ 3775 3500
+Wire Wire Line
+	3775 3500 3375 3500
+Connection ~ 4175 3500
+Wire Wire Line
+	4175 3500 3775 3500
+Connection ~ 2150 4050
+Wire Wire Line
+	2150 4050 2575 4050
+Connection ~ 2575 4050
+Wire Wire Line
+	2575 4050 2975 4050
+Connection ~ 2975 4050
+Wire Wire Line
+	2975 4050 3375 4050
+Connection ~ 3375 4050
+Wire Wire Line
+	3375 4050 3775 4050
+Connection ~ 3775 4050
+Wire Wire Line
+	3775 4050 4175 4050
+Connection ~ 4175 4050
+Wire Wire Line
+	4175 4050 4600 4050
+$Comp
+L Device:C C?
+U 1 1 601B4546
+P 1800 6425
+AR Path="/601B4546" Ref="C?"  Part="1" 
+AR Path="/6044C48A/601B4546" Ref="C19"  Part="1" 
+F 0 "C19" H 1915 6471 50  0000 L CNN
+F 1 "1uF" H 1915 6380 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 1838 6275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 1800 6425 50  0001 C CNN
+F 4 "Taiyo Yuden" H 1800 6425 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 1800 6425 50  0001 C CNN "PartNo"
+	1    1800 6425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 6000 1350 6175
+Wire Wire Line
+	1800 6275 1800 6175
+Connection ~ 1800 6175
+Wire Wire Line
+	1800 6175 1350 6175
+Wire Wire Line
+	1800 6575 1800 6725
+Wire Wire Line
+	1800 6725 1350 6725
+Wire Wire Line
+	1350 6725 1350 6875
+$Comp
+L power:GNDS #PWR031
+U 1 1 601B455A
+P 1350 6875
+F 0 "#PWR031" H 1350 6625 50  0001 C CNN
+F 1 "GNDS" H 1355 6702 50  0000 C CNN
+F 2 "" H 1350 6875 50  0001 C CNN
+F 3 "" H 1350 6875 50  0001 C CNN
+	1    1350 6875
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 6725 2200 6725
+Connection ~ 1800 6725
+$Comp
+L Device:C C?
+U 1 1 601B4564
+P 2200 6425
+AR Path="/601B4564" Ref="C?"  Part="1" 
+AR Path="/6044C48A/601B4564" Ref="C22"  Part="1" 
+F 0 "C22" H 2315 6471 50  0000 L CNN
+F 1 "1uF" H 2315 6380 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 2238 6275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 2200 6425 50  0001 C CNN
+F 4 "Taiyo Yuden" H 2200 6425 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 2200 6425 50  0001 C CNN "PartNo"
+	1    2200 6425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 6275 2200 6175
+Wire Wire Line
+	2200 6575 2200 6725
+$Comp
+L Device:C C?
+U 1 1 601B456E
+P 2625 6425
+AR Path="/601B456E" Ref="C?"  Part="1" 
+AR Path="/6044C48A/601B456E" Ref="C25"  Part="1" 
+F 0 "C25" H 2740 6471 50  0000 L CNN
+F 1 "1uF" H 2740 6380 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 2663 6275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 2625 6425 50  0001 C CNN
+F 4 "Taiyo Yuden" H 2625 6425 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 2625 6425 50  0001 C CNN "PartNo"
+	1    2625 6425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2625 6275 2625 6175
+Wire Wire Line
+	2625 6575 2625 6725
+$Comp
+L Device:C C?
+U 1 1 601B4578
+P 3025 6425
+AR Path="/601B4578" Ref="C?"  Part="1" 
+AR Path="/6044C48A/601B4578" Ref="C28"  Part="1" 
+F 0 "C28" H 3140 6471 50  0000 L CNN
+F 1 "1uF" H 3140 6380 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3063 6275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 3025 6425 50  0001 C CNN
+F 4 "Taiyo Yuden" H 3025 6425 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 3025 6425 50  0001 C CNN "PartNo"
+	1    3025 6425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3025 6275 3025 6175
+Wire Wire Line
+	3025 6575 3025 6725
+$Comp
+L Device:C C?
+U 1 1 601B4582
+P 3425 6425
+AR Path="/601B4582" Ref="C?"  Part="1" 
+AR Path="/6044C48A/601B4582" Ref="C31"  Part="1" 
+F 0 "C31" H 3540 6471 50  0000 L CNN
+F 1 "1uF" H 3540 6380 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3463 6275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 3425 6425 50  0001 C CNN
+F 4 "Taiyo Yuden" H 3425 6425 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 3425 6425 50  0001 C CNN "PartNo"
+	1    3425 6425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3425 6275 3425 6175
+Wire Wire Line
+	3425 6575 3425 6725
+$Comp
+L Device:C C?
+U 1 1 601B458C
+P 3825 6425
+AR Path="/601B458C" Ref="C?"  Part="1" 
+AR Path="/6044C48A/601B458C" Ref="C33"  Part="1" 
+F 0 "C33" H 3940 6471 50  0000 L CNN
+F 1 "1uF" H 3940 6380 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3863 6275 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 3825 6425 50  0001 C CNN
+F 4 "Taiyo Yuden" H 3825 6425 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 3825 6425 50  0001 C CNN "PartNo"
+	1    3825 6425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3825 6275 3825 6175
+Wire Wire Line
+	3825 6575 3825 6725
+Connection ~ 2200 6175
+Wire Wire Line
+	2200 6175 1800 6175
+Connection ~ 2625 6175
+Wire Wire Line
+	2625 6175 2200 6175
+Connection ~ 3025 6175
+Wire Wire Line
+	3025 6175 2625 6175
+Connection ~ 3425 6175
+Wire Wire Line
+	3425 6175 3025 6175
+Wire Wire Line
+	3825 6175 3425 6175
+Connection ~ 2200 6725
+Wire Wire Line
+	2200 6725 2625 6725
+Connection ~ 2625 6725
+Wire Wire Line
+	2625 6725 3025 6725
+Connection ~ 3025 6725
+Wire Wire Line
+	3025 6725 3425 6725
+Connection ~ 3425 6725
+Wire Wire Line
+	3425 6725 3825 6725
+$Comp
+L power:+3.3V #PWR?
+U 1 1 60225306
+P 1350 6000
+AR Path="/60225306" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/60225306" Ref="#PWR030"  Part="1" 
+F 0 "#PWR030" H 1350 5850 50  0001 C CNN
+F 1 "+3.3V" H 1365 6173 50  0000 C CNN
+F 2 "" H 1350 6000 50  0001 C CNN
+F 3 "" H 1350 6000 50  0001 C CNN
+	1    1350 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 60293373
+P 1825 7975
+AR Path="/60293373" Ref="C?"  Part="1" 
+AR Path="/6044C48A/60293373" Ref="C20"  Part="1" 
+F 0 "C20" H 1940 8021 50  0000 L CNN
+F 1 "1uF" H 1940 7930 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 1863 7825 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 1825 7975 50  0001 C CNN
+F 4 "Taiyo Yuden" H 1825 7975 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 1825 7975 50  0001 C CNN "PartNo"
+	1    1825 7975
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1375 7550 1375 7725
+Wire Wire Line
+	1825 7825 1825 7725
+Connection ~ 1825 7725
+Wire Wire Line
+	1825 7725 1375 7725
+Wire Wire Line
+	1825 8125 1825 8275
+Wire Wire Line
+	1825 8275 1375 8275
+Wire Wire Line
+	1375 8275 1375 8425
+$Comp
+L power:GNDS #PWR033
+U 1 1 60293380
+P 1375 8425
+F 0 "#PWR033" H 1375 8175 50  0001 C CNN
+F 1 "GNDS" H 1380 8252 50  0000 C CNN
+F 2 "" H 1375 8425 50  0001 C CNN
+F 3 "" H 1375 8425 50  0001 C CNN
+	1    1375 8425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1825 8275 2225 8275
+Connection ~ 1825 8275
+$Comp
+L Device:C C?
+U 1 1 6029338A
+P 2225 7975
+AR Path="/6029338A" Ref="C?"  Part="1" 
+AR Path="/6044C48A/6029338A" Ref="C23"  Part="1" 
+F 0 "C23" H 2340 8021 50  0000 L CNN
+F 1 "1uF" H 2340 7930 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 2263 7825 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 2225 7975 50  0001 C CNN
+F 4 "Taiyo Yuden" H 2225 7975 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 2225 7975 50  0001 C CNN "PartNo"
+	1    2225 7975
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2225 7825 2225 7725
+Wire Wire Line
+	2225 8125 2225 8275
+$Comp
+L Device:C C?
+U 1 1 60293394
+P 2650 7975
+AR Path="/60293394" Ref="C?"  Part="1" 
+AR Path="/6044C48A/60293394" Ref="C26"  Part="1" 
+F 0 "C26" H 2765 8021 50  0000 L CNN
+F 1 "1uF" H 2765 7930 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 2688 7825 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 2650 7975 50  0001 C CNN
+F 4 "Taiyo Yuden" H 2650 7975 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 2650 7975 50  0001 C CNN "PartNo"
+	1    2650 7975
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 7825 2650 7725
+Wire Wire Line
+	2650 8125 2650 8275
+$Comp
+L Device:C C?
+U 1 1 6029339E
+P 3050 7975
+AR Path="/6029339E" Ref="C?"  Part="1" 
+AR Path="/6044C48A/6029339E" Ref="C29"  Part="1" 
+F 0 "C29" H 3165 8021 50  0000 L CNN
+F 1 "1uF" H 3165 7930 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3088 7825 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 3050 7975 50  0001 C CNN
+F 4 "Taiyo Yuden" H 3050 7975 50  0001 C CNN "Mfr"
+F 5 "LMK105BJ105KV-F" H 3050 7975 50  0001 C CNN "PartNo"
+	1    3050 7975
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3050 7825 3050 7725
+Wire Wire Line
+	3050 8125 3050 8275
+Connection ~ 2225 7725
+Wire Wire Line
+	2225 7725 1825 7725
+Connection ~ 2650 7725
+Wire Wire Line
+	2650 7725 2225 7725
+Wire Wire Line
+	3050 7725 2650 7725
+Connection ~ 2225 8275
+Wire Wire Line
+	2225 8275 2650 8275
+Connection ~ 2650 8275
+Wire Wire Line
+	2650 8275 3050 8275
+$Comp
+L power:+1V35 #PWR?
+U 1 1 6030E7C1
+P 1375 7550
+AR Path="/6030E7C1" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/6030E7C1" Ref="#PWR032"  Part="1" 
+F 0 "#PWR032" H 1375 7400 50  0001 C CNN
+F 1 "+1V35" H 1390 7723 50  0000 C CNN
+F 2 "" H 1375 7550 50  0001 C CNN
+F 3 "" H 1375 7550 50  0001 C CNN
+	1    1375 7550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4750 13200 3975 13200
+Connection ~ 4750 13200
+Text HLabel 3975 13200 0    50   Input ~ 0
+3V3_USB
+$EndSCHEMATC
