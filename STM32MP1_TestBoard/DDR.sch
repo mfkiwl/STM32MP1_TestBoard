@@ -138,8 +138,6 @@ Wire Wire Line
 	6050 5025 6050 5225
 Wire Wire Line
 	4700 5175 5325 5175
-Text HLabel 5325 5175 2    50   Input ~ 0
-DDR_VREF
 Wire Wire Line
 	1500 8650 1500 8500
 Text HLabel 1500 8500 1    50   Input ~ 0
@@ -1877,4 +1875,77 @@ F 3 "~" H 15025 5600 50  0001 C CNN
 	1    15025 5600
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:R R?
+U 1 1 5FDCF44A
+P 6150 8325
+AR Path="/5FBD70AB/5FDCF44A" Ref="R?"  Part="1" 
+AR Path="/60386EBB/5FDCF44A" Ref="R2"  Part="1" 
+F 0 "R2" H 6220 8371 50  0000 L CNN
+F 1 "1K" H 6220 8280 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 6080 8325 50  0001 C CNN
+F 3 "~" H 6150 8325 50  0001 C CNN
+F 4 "~" H 6150 8325 50  0001 C CNN "Mfr"
+F 5 "~" H 6150 8325 50  0001 C CNN "PartNo"
+	1    6150 8325
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FDCF452
+P 6150 8900
+AR Path="/5FBD70AB/5FDCF452" Ref="R?"  Part="1" 
+AR Path="/60386EBB/5FDCF452" Ref="R52"  Part="1" 
+F 0 "R52" H 6220 8946 50  0000 L CNN
+F 1 "1K" H 6220 8855 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 6080 8900 50  0001 C CNN
+F 3 "~" H 6150 8900 50  0001 C CNN
+F 4 "~" H 6150 8900 50  0001 C CNN "Mfr"
+F 5 "~" H 6150 8900 50  0001 C CNN "PartNo"
+	1    6150 8900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6975 8625 6150 8625
+Wire Wire Line
+	6150 8475 6150 8625
+Connection ~ 6150 8625
+Wire Wire Line
+	6150 8625 6150 8750
+$Comp
+L power:+1V35 #PWR?
+U 1 1 5FDCF45C
+P 6150 8075
+AR Path="/5FDCF45C" Ref="#PWR?"  Part="1" 
+AR Path="/6044C48A/5FDCF45C" Ref="#PWR?"  Part="1" 
+AR Path="/5FBD70AB/5FDCF45C" Ref="#PWR?"  Part="1" 
+AR Path="/60386EBB/5FDCF45C" Ref="#PWR0127"  Part="1" 
+F 0 "#PWR0127" H 6150 7925 50  0001 C CNN
+F 1 "+1V35" H 6165 8248 50  0000 C CNN
+F 2 "" H 6150 8075 50  0001 C CNN
+F 3 "" H 6150 8075 50  0001 C CNN
+	1    6150 8075
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6150 8075 6150 8175
+$Comp
+L power:GNDS #PWR?
+U 1 1 5FDCF463
+P 6150 9150
+AR Path="/5FBD70AB/5FDCF463" Ref="#PWR?"  Part="1" 
+AR Path="/60386EBB/5FDCF463" Ref="#PWR0134"  Part="1" 
+F 0 "#PWR0134" H 6150 8900 50  0001 C CNN
+F 1 "GNDS" H 6155 8977 50  0000 C CNN
+F 2 "" H 6150 9150 50  0001 C CNN
+F 3 "" H 6150 9150 50  0001 C CNN
+	1    6150 9150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6150 9150 6150 9050
+Text Label 5325 5175 2    50   ~ 0
+DDR_VREF
+Text Label 6975 8625 2    50   ~ 0
+DDR_VREF
 $EndSCHEMATC
