@@ -2,17 +2,19 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 4)
     (tracks 0)
     (zones 0)
     (modules 0)
-    (nets 1)
+    (nets 3)
   )
 
   (page A4)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu_Signal signal)
+    (1 In1.Cu_GND power)
+    (2 In2.Cu_VDD power)
+    (31 B.Cu_Signal signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -29,8 +31,8 @@
     (45 Margin user)
     (46 B.CrtYd user)
     (47 F.CrtYd user)
-    (48 B.Fab user)
-    (49 F.Fab user)
+    (48 B.Fab user hide)
+    (49 F.Fab user hide)
   )
 
   (setup
@@ -92,6 +94,8 @@
   )
 
   (net 0 "")
+  (net 1 GNDS)
+  (net 2 +3V3)
 
   (net_class Default "This is the default net class."
     (clearance 0.09)
@@ -100,6 +104,37 @@
     (via_drill 0.2)
     (uvia_dia 0.3)
     (uvia_drill 0.1)
+    (add_net GNDS)
   )
 
+  (gr_line (start 101.6 149.86) (end 101.6 50.8) (layer Edge.Cuts) (width 0.05) (tstamp 5FB201EC))
+  (gr_line (start 200.66 149.86) (end 101.6 149.86) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 200.66 50.8) (end 200.66 149.86) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 101.6 50.8) (end 200.66 50.8) (layer Edge.Cuts) (width 0.05))
+
+  (zone (net 1) (net_name GNDS) (layer In1.Cu_GND) (tstamp 0) (hatch edge 0.508)
+    (connect_pads yes (clearance 0.508))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 200.66 149.86) (xy 101.6 149.86) (xy 101.6 50.8) (xy 200.66 50.8)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 200.000001 149.2) (xy 102.26 149.2) (xy 102.26 51.46) (xy 200 51.46)
+      )
+    )
+  )
+  (zone (net 2) (net_name +3V3) (layer In2.Cu_VDD) (tstamp 0) (hatch edge 0.508)
+    (connect_pads yes (clearance 0.508))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 200.66 149.86) (xy 101.6 149.86) (xy 101.6 50.8) (xy 200.66 50.8)
+      )
+    )
+  )
 )

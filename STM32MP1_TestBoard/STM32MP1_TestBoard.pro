@@ -1,4 +1,4 @@
-update=Mon 16 Nov 2020 00:05:26 GMT
+update=Mon 16 Nov 2020 02:54:14 GMT
 version=1
 last_client=kicad
 [general]
@@ -16,7 +16,7 @@ LibDir=
 version=1
 PageLayoutDescrFile=
 LastNetListRead=
-CopperLayerCount=2
+CopperLayerCount=4
 BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
@@ -62,17 +62,17 @@ SolderMaskMinWidth=0
 SolderPasteClearance=0
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
-Name=F.Cu
+Name=F.Cu_Signal
 Type=0
 Enabled=1
 [pcbnew/Layer.In1.Cu]
-Name=In1.Cu
-Type=0
-Enabled=0
+Name=In1.Cu_GND
+Type=1
+Enabled=1
 [pcbnew/Layer.In2.Cu]
-Name=In2.Cu
-Type=0
-Enabled=0
+Name=In2.Cu_VDD
+Type=1
+Enabled=1
 [pcbnew/Layer.In3.Cu]
 Name=In3.Cu
 Type=0
@@ -186,7 +186,7 @@ Name=In30.Cu
 Type=0
 Enabled=0
 [pcbnew/Layer.B.Cu]
-Name=B.Cu
+Name=B.Cu_Signal
 Type=0
 Enabled=1
 [pcbnew/Layer.B.Adhes]
