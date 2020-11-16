@@ -950,14 +950,4 @@ F 5 "~" H 10500 13900 50  0001 C CNN "PartNo"
 $EndComp
 Wire Wire Line
 	8275 3650 4975 3650
-Text Notes 7900 3650 0    50   ~ 0
-<— OUT
-Text Notes 5050 3650 0    50   ~ 0
-<— IN
-Text Notes 5050 3850 0    50   ~ 0
-OUT —>
-Text Notes 7925 3850 0    50   ~ 0
-IN —>
-Text Notes 5025 4250 0    50   ~ 0
-<— IN
 $EndSCHEMATC
