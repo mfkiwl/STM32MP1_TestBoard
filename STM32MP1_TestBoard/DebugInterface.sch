@@ -160,7 +160,7 @@ U 1 1 607CA98E
 P 9075 6050
 F 0 "JP5" V 9075 6125 50  0000 L CNN
 F 1 "Jumper_NC_Small" V 9120 6124 50  0001 L CNN
-F 2 "" H 9075 6050 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 9075 6050 50  0001 C CNN
 F 3 "~" H 9075 6050 50  0001 C CNN
 	1    9075 6050
 	0    1    1    0   

@@ -996,15 +996,15 @@ Text HLabel 4975 3775 0    50   Input ~ 0
 Wire Wire Line
 	4975 3775 6900 3775
 Text HLabel 4725 2825 0    50   Input ~ 0
-3.3v_VDD
+3.3V_VDD
 Wire Wire Line
 	4725 2825 6900 2825
 Text HLabel 11200 2775 2    50   Input ~ 0
-3.3v_VDD
+3.3V_VDD
 Text HLabel 3350 8200 0    50   Input ~ 0
 1.35V_VDDCORE
 Text HLabel 8050 8175 0    50   Input ~ 0
-3.3v_VDD
+3.3V_VDD
 Text HLabel 11825 8175 0    50   Input ~ 0
 1.35V_VDDCORE
 $EndSCHEMATC

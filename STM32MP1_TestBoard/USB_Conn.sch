@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 9 10
+Sheet 8 10
 Title ""
 Date ""
 Rev ""
@@ -79,13 +79,13 @@ F 3 "" H 4650 5925 50  0001 C CNN
 $EndComp
 NoConn ~ 4550 5450
 Text HLabel 5900 3200 2    50   Input ~ 0
-USBC_DM
+USB_D1_N
 Text HLabel 5900 3300 2    50   Input ~ 0
-USBC_DP
+USB_D1_P
 Text HLabel 5425 5050 2    50   Input ~ 0
-USBA_DP
+USB_D2_P
 Text HLabel 5425 5150 2    50   Input ~ 0
-USBA_DM
+USB_D2_N
 $Comp
 L Connector:USB_B_Micro J13
 U 1 1 5FC6FFE5

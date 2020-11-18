@@ -41,8 +41,6 @@ F 5 "Kemet" H 4050 5550 50  0001 C CNN "Mfr"
 $EndComp
 Wire Wire Line
 	4050 5400 4050 5025
-Wire Wire Line
-	4050 5700 4050 6475
 $Comp
 L power:GNDS #PWR03
 U 1 1 5FBFD4D0
@@ -275,58 +273,6 @@ Wire Wire Line
 	8825 9225 8825 9325
 Text HLabel 10150 9325 2    50   Input ~ 0
 3V3_USB
-$Comp
-L Device:C C37
-U 1 1 604D0F85
-P 4575 9050
-F 0 "C37" H 4250 9100 50  0000 L CNN
-F 1 "100nF" H 4200 9000 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 4613 8900 50  0001 C CNN
-F 3 "~" H 4575 9050 50  0001 C CNN
-F 4 "~" H 4575 9050 50  0001 C CNN "Mfr"
-F 5 "~" H 4575 9050 50  0001 C CNN "PartNo"
-	1    4575 9050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C C38
-U 1 1 604D14DF
-P 5100 9050
-F 0 "C38" H 5215 9096 50  0000 L CNN
-F 1 "4.7uF" H 5215 9005 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 5138 8900 50  0001 C CNN
-F 3 "~" H 5100 9050 50  0001 C CNN
-F 4 "~" H 5100 9050 50  0001 C CNN "Mfr"
-F 5 "~" H 5100 9050 50  0001 C CNN "PartNo"
-	1    5100 9050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5100 8900 5100 8750
-Wire Wire Line
-	4575 8750 4575 8900
-Wire Wire Line
-	4575 9200 4575 9400
-Wire Wire Line
-	4575 9400 4850 9400
-Wire Wire Line
-	5100 9400 5100 9200
-Wire Wire Line
-	4850 9400 4850 9575
-Connection ~ 4850 9400
-Wire Wire Line
-	4850 9400 5100 9400
-$Comp
-L power:GNDS #PWR042
-U 1 1 604DD164
-P 4850 9575
-F 0 "#PWR042" H 4850 9325 50  0001 C CNN
-F 1 "GNDS" H 4855 9402 50  0000 C CNN
-F 2 "" H 4850 9575 50  0001 C CNN
-F 3 "" H 4850 9575 50  0001 C CNN
-	1    4850 9575
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	8525 9025 8000 9025
 Wire Wire Line
@@ -445,7 +391,7 @@ Wire Wire Line
 Text HLabel 5075 5225 0    50   Input ~ 0
 PWR_ON
 Wire Wire Line
-	4050 5025 5775 5025
+	4050 5025 4500 5025
 Connection ~ 4050 5025
 $Comp
 L Device:Jumper_NC_Small JP6
@@ -466,15 +412,31 @@ Wire Wire Line
 	8825 8500 8625 8500
 Wire Wire Line
 	8825 8500 8825 8825
+$Comp
+L Device:C C5
+U 1 1 5FC7AF91
+P 4500 5550
+F 0 "C5" H 4615 5596 50  0000 L CNN
+F 1 "22uF" H 4615 5505 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 4538 5400 50  0001 C CNN
+F 3 "https://www.mouser.co.uk/datasheet/2/212/KEM_C1006_X5R_SMD-1103249.pdf" H 4500 5550 50  0001 C CNN
+F 4 "C1206C226M8PACTU" H 4500 5550 50  0001 C CNN "PartNo"
+F 5 "Kemet" H 4500 5550 50  0001 C CNN "Mfr"
+	1    4500 5550
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
-	4850 8750 4850 8300
-Text HLabel 4700 8300 0    50   Input ~ 0
-3.3V_VDD
+	4500 5400 4500 5025
 Wire Wire Line
-	4700 8300 4850 8300
+	4500 5700 4500 5975
 Wire Wire Line
-	4575 8750 4850 8750
-Connection ~ 4850 8750
+	4500 5975 4050 5975
 Wire Wire Line
-	4850 8750 5100 8750
+	4050 5700 4050 5975
+Connection ~ 4050 5975
+Wire Wire Line
+	4050 5975 4050 6475
+Connection ~ 4500 5025
+Wire Wire Line
+	4500 5025 5775 5025
 $EndSCHEMATC
