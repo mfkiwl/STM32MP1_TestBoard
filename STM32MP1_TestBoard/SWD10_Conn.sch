@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 10
+Sheet 5 10
 Title ""
 Date ""
 Rev ""
@@ -20,8 +20,8 @@ P 5125 3750
 AR Path="/5FBD70AB/60D84783" Ref="J?"  Part="1" 
 AR Path="/5FBD70AB/60D82D6A/60D84783" Ref="J1"  Part="1" 
 AR Path="/60DBD4A2/60D84783" Ref="J2"  Part="1" 
-AR Path="/606F7DFA/606FAC2E/60D84783" Ref="J2"  Part="1" 
-F 0 "J2" H 5175 4167 50  0000 C CNN
+AR Path="/606F7DFA/606FAC2E/60D84783" Ref="J6"  Part="1" 
+F 0 "J6" H 5175 4167 50  0000 C CNN
 F 1 "Conn_02x05_Odd_Even" H 5175 4076 50  0000 C CNN
 F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" H 5125 3750 50  0001 C CNN
 F 3 "https://docs.rs-online.com/75e3/0900766b8142184e.pdf" H 5125 3750 50  0001 C CNN
