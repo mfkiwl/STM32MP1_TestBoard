@@ -175,51 +175,6 @@ F 3 "" H 5750 6400 50  0001 C CNN
 	1    5750 6400
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:TestPoint TP1
-U 1 1 605AADE6
-P 5100 5475
-F 0 "TP1" V 5100 5663 50  0000 L CNN
-F 1 "~" V 5145 5663 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 5300 5475 50  0001 C CNN
-F 3 "~" H 5300 5475 50  0001 C CNN
-F 4 "~" H 5100 5475 50  0001 C CNN "Mfr"
-F 5 "~" H 5100 5475 50  0001 C CNN "PartNo"
-	1    5100 5475
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	5100 5475 4700 5475
-$Comp
-L Connector:TestPoint TP2
-U 1 1 605ACCD6
-P 5100 5625
-F 0 "TP2" V 5100 5813 50  0000 L CNN
-F 1 "~" V 5145 5813 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 5300 5625 50  0001 C CNN
-F 3 "~" H 5300 5625 50  0001 C CNN
-F 4 "~" H 5100 5625 50  0001 C CNN "Mfr"
-F 5 "~" H 5100 5625 50  0001 C CNN "PartNo"
-	1    5100 5625
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	5100 5625 4700 5625
-$Comp
-L Connector:TestPoint TP3
-U 1 1 605AE22F
-P 5100 5725
-F 0 "TP3" V 5100 5913 50  0000 L CNN
-F 1 "~" V 5145 5913 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 5300 5725 50  0001 C CNN
-F 3 "~" H 5300 5725 50  0001 C CNN
-F 4 "~" H 5100 5725 50  0001 C CNN "Mfr"
-F 5 "~" H 5100 5725 50  0001 C CNN "PartNo"
-	1    5100 5725
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	5100 5725 4700 5725
 Wire Wire Line
 	2900 2525 1950 2525
 Text Label 1950 2525 0    50   ~ 0
@@ -366,9 +321,9 @@ Wire Wire Line
 	8375 5125 9350 5125
 Text Label 1950 3325 0    50   ~ 0
 DDR_DQS0_P
-Text Label 9350 5025 2    50   ~ 0
+Text Label 9350 4825 2    50   ~ 0
 DDR_DQS0_P
-Text Label 9350 5125 2    50   ~ 0
+Text Label 9350 4925 2    50   ~ 0
 DDR_DQS0_N
 Text Label 1950 3425 0    50   ~ 0
 DDR_DQS0_N
@@ -392,9 +347,9 @@ Text Label 1950 4525 0    50   ~ 0
 DDR_DQS1_P
 Text Label 1950 4625 0    50   ~ 0
 DDR_DQS1_N
-Text Label 9350 4825 2    50   ~ 0
+Text Label 9350 5025 2    50   ~ 0
 DDR_DQS1_P
-Text Label 9350 4925 2    50   ~ 0
+Text Label 9350 5125 2    50   ~ 0
 DDR_DQS1_N
 Text Label 1950 3525 0    50   ~ 0
 DDR_DQM0
@@ -909,4 +864,7 @@ F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 4450 4275 50  0
 	3    3800 4125
 	1    0    0    -1  
 $EndComp
+NoConn ~ 4700 5475
+NoConn ~ 4700 5625
+NoConn ~ 4700 5725
 $EndSCHEMATC

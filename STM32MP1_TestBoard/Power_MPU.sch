@@ -945,10 +945,6 @@ Connection ~ 6100 4075
 Wire Wire Line
 	6100 4075 5525 4075
 Connection ~ 5175 5125
-Wire Wire Line
-	9075 5425 10000 5425
-Text HLabel 10000 5425 2    50   Input ~ 0
-PWR_ON
 NoConn ~ 9075 5525
 Wire Wire Line
 	7275 3525 6900 3525
@@ -1005,4 +1001,17 @@ F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 8825 4575 50  0
 	4    8175 4425
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector:TestPoint TP?
+U 1 1 5FCFAF5B
+P 9275 5425
+F 0 "TP?" V 9275 5613 50  0000 L CNN
+F 1 "TestPoint" V 9320 5613 50  0001 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 9475 5425 50  0001 C CNN
+F 3 "~" H 9475 5425 50  0001 C CNN
+	1    9275 5425
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9075 5425 9275 5425
 $EndSCHEMATC

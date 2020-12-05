@@ -370,25 +370,8 @@ to MPU VDDCORE
 Text HLabel 5425 7825 0    50   Input ~ 0
 1V8_DETECT
 Wire Wire Line
-	5750 4600 5425 4600
-Text HLabel 5050 4600 0    50   Input ~ 0
-PWR_ON
-Wire Wire Line
 	4025 4400 4475 4400
 Connection ~ 4025 4400
-$Comp
-L Device:Jumper_NC_Small JP6
-U 1 1 6090B4C9
-P 5325 4600
-F 0 "JP6" H 5325 4721 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 5325 4721 50  0001 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm" H 5325 4600 50  0001 C CNN
-F 3 "~" H 5325 4600 50  0001 C CNN
-	1    5325 4600
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5225 4600 5050 4600
 Text HLabel 6050 7300 0    50   Input ~ 0
 3.3V_VDD
 Wire Wire Line
@@ -602,4 +585,5 @@ F 3 "" H 6250 9275 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 6250 8125
+NoConn ~ 5750 4600
 $EndSCHEMATC
