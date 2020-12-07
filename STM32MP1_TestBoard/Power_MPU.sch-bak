@@ -1002,10 +1002,10 @@ F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 8825 4575 50  0
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TP?
+L Connector:TestPoint TP1
 U 1 1 5FCFAF5B
 P 9275 5425
-F 0 "TP?" V 9275 5613 50  0000 L CNN
+F 0 "TP1" V 9275 5613 50  0000 L CNN
 F 1 "TestPoint" V 9320 5613 50  0001 L CNN
 F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 9475 5425 50  0001 C CNN
 F 3 "~" H 9475 5425 50  0001 C CNN
