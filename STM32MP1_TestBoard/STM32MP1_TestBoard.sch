@@ -20,7 +20,6 @@ F0 "Power_MPU" 50
 F1 "Power_MPU.sch" 50
 F2 "3V3_USB" I L 9350 5025 50 
 F3 "1V8_DETECT" I L 9350 5225 50 
-F4 "PWR_ON" I L 9350 4650 50 
 F5 "1.35V_VDDCORE" I L 9350 4500 50 
 F6 "3.3V_VDD" I L 9350 5675 50 
 $EndSheet
@@ -35,10 +34,7 @@ F2 "3V3_USB" I R 6050 5025 50
 F3 "1.35V_VDDCORE" I R 6050 4075 50 
 F4 "3.3V_VDD" I R 6050 5675 50 
 F5 "1V8_DETECT" I R 6050 5225 50 
-F6 "PWR_ON" I R 6050 4650 50 
 $EndSheet
-Wire Wire Line
-	9350 5025 6050 5025
 $Sheet
 S 4500 6650 1525 675 
 U 606F7DFA
@@ -46,8 +42,6 @@ F0 "DebugInterface1" 50
 F1 "DebugInterface.sch" 50
 F2 "3.3V_VDD" I R 6025 6950 50 
 $EndSheet
-Wire Wire Line
-	6050 4650 9350 4650
 $Sheet
 S 9350 6625 1800 700 
 U 6097C138
@@ -69,8 +63,6 @@ Wire Wire Line
 Wire Wire Line
 	7375 4500 7375 4075
 Connection ~ 7375 4075
-Text Notes 6225 4650 0    50   ~ 0
-<- ENABLE VDDCORE
 Text Notes 6200 5225 0    50   ~ 0
 <- ENABLE 3V3_USB
 $Sheet
@@ -103,4 +95,6 @@ Text Notes 6375 5675 0    50   ~ 0
 PWR_OUT -->
 Text Notes 6375 5025 0    50   ~ 0
 PWR_OUT -->
+Wire Wire Line
+	9350 5025 6050 5025
 $EndSCHEMATC
