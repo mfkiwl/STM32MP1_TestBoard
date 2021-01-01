@@ -13,8 +13,11 @@
 #### MPU Power Supply ####
 ![](STM32MP1_TestBoard/doc/schema/svg/Power_MPU-Power_MPU.svg)
 
+#### MPU DDR ####
+![](STM32MP1_TestBoard/doc/schema/svg/DDR-DDR.svg)
+
 #### MicroSD connectors ####
-![](STM32MP1_TestBoard/doc/schema/svg/MicroSD-MicroSD1.svg)
+![](STM32MP1_TestBoard/doc/schema/svg/MicroSD-GPIO-SDIO1.svg)
 
 #### USB Connectors ####
-![](STM32MP1_TestBoard/doc/schema/svg/USB_Conn-USB_Conn.svg)
+![](STM32MP1_TestBoard/doc/schema/svg/USB_Conn-GPIO-USB_Conn.svg)
