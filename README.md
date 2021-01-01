@@ -1,5 +1,7 @@
 ### STM32MP1 Embedded Linux breakout board ###
 
+![](STM32MP1_TestBoard/doc/layout_render/STM32MP1_TestBoard_Populated.png)
+
 [Bill of materials](STM32MP1_TestBoard/doc/bom/STM32MP1_TestBoard.csv)
 
 [DataSheets](STM32MP1_TestBoard/doc/datasheets)
