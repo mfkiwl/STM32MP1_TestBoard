@@ -67,6 +67,8 @@ F 0 "SW2" V 7750 6675 50  0000 C CNN
 F 1 "SW_SPST" V 7950 6750 50  0001 C CNN
 F 2 "Button_Switch_SMD:Panasonic_EVQPUK_EVQPUB" H 7750 6500 50  0001 C CNN
 F 3 "https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C382.pdf" H 7750 6500 50  0001 C CNN
+F 4 "~" H 7750 6500 50  0001 C CNN "Mfr"
+F 5 "~" H 7750 6500 50  0001 C CNN "PartNo"
 	1    7750 6500
 	0    -1   1    0   
 $EndComp
@@ -151,6 +153,8 @@ F 0 "JP5" V 9075 6125 50  0000 L CNN
 F 1 "Jumper_NC_Small" V 9120 6124 50  0001 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 9075 6050 50  0001 C CNN
 F 3 "~" H 9075 6050 50  0001 C CNN
+F 4 "~" H 9075 6050 50  0001 C CNN "Mfr"
+F 5 "~" H 9075 6050 50  0001 C CNN "PartNo"
 	1    9075 6050
 	0    1    1    0   
 $EndComp
@@ -194,9 +198,11 @@ L STM32MP15x:STM32MP157xAB U1
 U 5 1 5FC56421
 P 10250 5650
 F 0 "U1" H 10100 6275 50  0000 L CNN
-F 1 "STM32MP157xAB" H 9950 6175 50  0000 L CNN
+F 1 "STM32MP157xAC" H 9950 6175 50  0000 L CNN
 F 2 "STM32MP151_LFBGA:BGA-361_19x19_16.0x16.0mm" H 10100 7550 50  0001 C CNN
 F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 10900 5800 50  0001 C CNN
+F 4 "~" H 10250 5650 50  0001 C CNN "Mfr"
+F 5 "~" H 10250 5650 50  0001 C CNN "PartNo"
 	5    10250 5650
 	1    0    0    -1  
 $EndComp

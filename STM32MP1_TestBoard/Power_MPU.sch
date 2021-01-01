@@ -679,6 +679,8 @@ F 0 "JP4" V 9625 3300 50  0000 R CNN
 F 1 "Jumper_NC_Small" V 9670 3149 50  0001 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm" H 9625 3075 50  0001 C CNN
 F 3 "~" H 9625 3075 50  0001 C CNN
+F 4 "~" H 9625 3075 50  0001 C CNN "Mfr"
+F 5 "~" H 9625 3075 50  0001 C CNN "PartNo"
 	1    9625 3075
 	0    -1   -1   0   
 $EndComp
@@ -998,6 +1000,8 @@ F 0 "U1" H 8175 6340 50  0000 C CNN
 F 1 "STM32MP157xAC" H 8175 6249 50  0000 C CNN
 F 2 "STM32MP151_LFBGA:BGA-361_19x19_16.0x16.0mm" H 8025 6325 50  0001 C CNN
 F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 8825 4575 50  0001 C CNN
+F 4 "~" H 8175 4425 50  0001 C CNN "Mfr"
+F 5 "~" H 8175 4425 50  0001 C CNN "PartNo"
 	4    8175 4425
 	1    0    0    -1  
 $EndComp
@@ -1009,6 +1013,8 @@ F 0 "TP1" V 9275 5613 50  0000 L CNN
 F 1 "TestPoint" V 9320 5613 50  0001 L CNN
 F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 9475 5425 50  0001 C CNN
 F 3 "~" H 9475 5425 50  0001 C CNN
+F 4 "~" H 9275 5425 50  0001 C CNN "Mfr"
+F 5 "~" H 9275 5425 50  0001 C CNN "PartNo"
 	1    9275 5425
 	0    1    1    0   
 $EndComp
