@@ -328,6 +328,8 @@ F 0 "C1" H 5290 2471 50  0000 L CNN
 F 1 "1uF" H 5290 2380 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 5213 2275 50  0001 C CNN
 F 3 "~" H 5175 2425 50  0001 C CNN
+F 4 "~" H 5175 2425 50  0001 C CNN "Mfr"
+F 5 "~" H 5175 2425 50  0001 C CNN "PartNo"
 	1    5175 2425
 	1    0    0    -1  
 $EndComp
