@@ -1,4 +1,4 @@
-update=Friday, 01 January 2021 at 23:33:55
+update=Tuesday, 26 January 2021 at 10:29:12
 version=1
 last_client=kicad
 [general]
@@ -247,7 +247,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=doc/schema/svg/
+PlotDirectoryName=doc/schema/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew

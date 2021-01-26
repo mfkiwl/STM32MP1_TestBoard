@@ -1,4 +1,4 @@
-19034499976619011
+19036105359992005
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56356,6 +56356,13 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Molex_SDIO
+Molex_SDIO_475710001
+
+
+0
+13
+9
 MountingEquipment
 DINRailAdapter_3xM3_PhoenixContact_1201578
 https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1
@@ -59695,20 +59702,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PCB_Antenna
-Nordic_2_4GHz_Meander_LeftSided
-
-
-0
-1
-1
-PCB_Antenna
-Nordic_2_4GHz_Meander_RightSided
-
-
-0
-1
-1
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -76306,6 +76299,20 @@ rotary encoder
 0
 5
 4
+STM32MP151_LFBGA
+BGA-354_19x19_16.0x16.0mm
+
+
+0
+354
+354
+STM32MP151_LFBGA
+BGA-448_22x22_18.0x18.0mm
+
+
+0
+448
+448
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf

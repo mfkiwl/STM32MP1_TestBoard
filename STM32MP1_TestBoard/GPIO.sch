@@ -340,11 +340,11 @@ F6 "uSD_D3" I R 3675 2325 50
 F7 "uSD_CMD" I R 3675 1800 50 
 F8 "3V3_SDIO_VDD" I R 3675 1525 50 
 $EndSheet
-Text Label 6925 1400 0    50   ~ 0
+Text Label 7450 1400 0    50   ~ 0
 SDMMC2_CMD
-Text Label 10325 1500 0    50   ~ 0
+Text Label 10800 1500 0    50   ~ 0
 SDMMC2_CK
-Text Label 10300 2200 0    50   ~ 0
+Text Label 10800 2200 0    50   ~ 0
 SDMMC1_D0
 Text Label 4500 2025 2    50   ~ 0
 SDMMC1_D0
@@ -362,13 +362,13 @@ Wire Wire Line
 	3675 2325 4500 2325
 Text Label 4500 2325 2    50   ~ 0
 SDMMC1_D3
-Text Label 10300 2300 0    50   ~ 0
+Text Label 10800 2300 0    50   ~ 0
 SDMMC1_D1
-Text Label 10300 2400 0    50   ~ 0
+Text Label 10800 2400 0    50   ~ 0
 SDMMC1_D2
-Text Label 10300 2500 0    50   ~ 0
+Text Label 10800 2500 0    50   ~ 0
 SDMMC1_D3
-Text Label 10300 3350 0    50   ~ 0
+Text Label 10775 3350 0    50   ~ 0
 SDMMC1_CMD
 Text Label 4500 1800 2    50   ~ 0
 SDMMC1_CMD
@@ -378,15 +378,15 @@ Wire Wire Line
 	3675 1700 4500 1700
 Text Label 4500 1700 2    50   ~ 0
 SDMMC1_CK
-Text Label 10300 2600 0    50   ~ 0
+Text Label 10800 2600 0    50   ~ 0
 SDMMC1_CK
-Text Label 6925 3550 0    50   ~ 0
+Text Label 7475 3550 0    50   ~ 0
 SDMMC2_D3
-Text Label 6925 4450 0    50   ~ 0
+Text Label 7450 4450 0    50   ~ 0
 SDMMC2_D0
-Text Label 6925 4650 0    50   ~ 0
+Text Label 7450 4650 0    50   ~ 0
 SDMMC2_D1
-Text Label 6925 3450 0    50   ~ 0
+Text Label 7475 3450 0    50   ~ 0
 SDMMC2_D2
 $Sheet
 S 2800 4800 1025 725 
@@ -414,7 +414,7 @@ Wire Wire Line
 	3175 9425 3900 9425
 Wire Wire Line
 	3475 9525 3900 9525
-Text Label 6975 2700 0    50   ~ 0
+Text Label 7450 2700 0    50   ~ 0
 BOOT_STATUS
 Text Label 8150 10750 0    50   ~ 0
 BOOT_STATUS
@@ -1311,4 +1311,48 @@ F 3 "" H 11500 8125 50  0001 C CNN
 	1    11500 8125
 	0    1    1    0   
 $EndComp
+Text Notes 10000 3750 0    50   ~ 0
+USART2_RX
+Text Notes 10000 3950 0    50   ~ 0
+USART3_TX
+Text Notes 10000 4050 0    50   ~ 0
+USART3_RX
+Text Notes 6625 1700 0    50   ~ 0
+USART2_RX
+Text Notes 9950 7725 0    50   ~ 0
+USART6_TX
+Text Notes 6625 1600 0    50   ~ 0
+USART2_TX
+Text Notes 6550 4150 0    50   ~ 0
+USART3_TX
+Text Notes 6550 4350 0    50   ~ 0
+USART3_RX
+Text Notes 9950 7425 0    50   ~ 0
+USART1_TX
+Text Notes 6550 3750 0    50   ~ 0
+USART1_TX
+Text Notes 6550 3350 0    50   ~ 0
+USART1_RX
+Text Notes 9950 7225 0    50   ~ 0
+USART6_RX
+Text Notes 6600 2400 0    50   ~ 0
+USART1_RX
+Text Notes 9975 2500 0    50   ~ 0
+USART3_RX
+Text Notes 9975 2400 0    50   ~ 0
+USART3_TX
+Text Notes 9975 2100 0    50   ~ 0
+USART6_RX
+Text Notes 9975 2000 0    50   ~ 0
+USART6_TX
+Text Notes 6550 4550 0    50   ~ 0
+USART1_TX
+Text Notes 6550 4650 0    50   ~ 0
+USART1_RX
+Text Notes 6600 2300 0    50   ~ 0
+USART1_TX
+Text Notes 6550 3850 0    50   ~ 0
+USART1_RX
+Text Notes 10000 3650 0    50   ~ 0
+USART2_TX
 $EndSCHEMATC
